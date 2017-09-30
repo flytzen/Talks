@@ -1,9 +1,9 @@
 # GDPR for software builders
-GDPR is the replacement for the Data Protection Act. The deadline for compliance is May 2018 and it arrives with much tighter rules and significantly increased fines.
+The new General Data Protection Regulations are neearly upon us and if you haven't started preparing yet, now would be a good time to panic.
 
-In this lightning talk I will highlight the main areas that are important to be aware of for you as a developer or software designer, so you can start preparing before you boss comes and asks you in April next year.
+In this lightning talk, I will highlight the key areas that you need to consider in your software - even if you *think* you don't store personal data.
 
-
+GDPR is the replacement for the Data Protection Act. The deadline for compliance is May 2018 and it arrives with much tighter rules and significantly increased fines. It has a an extended scope and tighter rules for consent, subject access requests, the right to be forgotten, automated deletion, auditing and more.
 
 
 ---
