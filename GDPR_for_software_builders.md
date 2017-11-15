@@ -1,5 +1,5 @@
 # GDPR for software builders
-The new General Data Protection Regulations are neearly upon us and if you haven't started preparing yet, now would be a good time to panic.
+The new General Data Protection Regulations are nearly upon us and if you haven't started preparing yet, now would be a good time to panic.
 
 In this lightning talk, I will highlight the key areas that you need to consider in your software - even if you *think* you don't store personal data.
 
